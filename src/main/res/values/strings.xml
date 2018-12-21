@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="header_text">Welcome to the Quiz App.  Find out your knowledge about Films from 2018.</string>
+    <string name="question1">1. How many Jurassic Park/World films have been released in total including this year\'s Jurassic World: Fallen Kingdom?</string>
+    <string name="question2">2. What is the name of the virtual reality world in Ready Player One?</string>
+    <string name="question3">3. Tom Hardy plays journalist Eddie Brock in which Marvel Comics superhero film released in October 2018?</string>
+    <string name="question4">4. Who of the following actors starred in Mission: Impossible - Fallout? (answer all correct)</string>
+    <string name="question5">5. \'Solo\' is latest release from which famous movie franchise?</string>
+    <string name="question2_option1">Tomorrowland</string>
+    <string name="question2_option2">Oasis</string>
+    <string name="question2_option3">Parzival</string>
+    <string name="question3_option1">Aquaman</string>
+    <string name="question3_option2">Black Panther</string>
+    <string name="question3_option3">Venom</string>
+    <string name="question4_option1">Denzel Washington</string>
+    <string name="question4_option2">Tom Cruise</string>
+    <string name="question4_option3">Alec Baldwin</string>
+    <string name="question4_option4">Jeremy Renner</string>
+    <string name="question5_option1">Star Wars</string>
+    <string name="question5_option2">Harry Potter</string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="question1_hint">1</string>
+</resources>
