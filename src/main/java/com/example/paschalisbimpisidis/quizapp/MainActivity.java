@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     private boolean isAnswer1Correct() {
         EditText input = findViewById(R.id.answer1);
-        String answer1 = input.getText().toString();cdds
+        String answer1 = input.getText().toString();cddsfgfdsg
 
         return answer1.equals("5");
     }
