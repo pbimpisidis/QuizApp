@@ -19,10 +19,13 @@ public class MainActivity extends AppCompatActivity {
     public void getResults(View view) {
         boolean one = isAnswer1Correct();
         boolean two = isAnswer2Correct();
-        boolean three = isAnswer2Correct();
+        boolean three = isAnswer3Correct();
         boolean four = isAnswer2Correct();
         boolean five = isAnswer2Correct();
         Log.v("MainActivity", "1st answer is: " + one + ", 2nd answer is: " + two + ", 3rd answer is: " + three + ", 4th answer is: " + four + ", 5th answer is: " + five);
+    }
+
+    private boolean isAnswer3Correct() {
     }
 
     private boolean isAnswer1Correct() {
