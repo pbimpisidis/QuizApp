@@ -25,9 +25,6 @@ public class MainActivity extends AppCompatActivity {
         Log.v("MainActivity", "1st answer is: " + one + ", 2nd answer is: " + two + ", 3rd answer is: " + three + ", 4th answer is: " + four + ", 5th answer is: " + five);
     }
 
-    private boolean isAnswer3Correct() {
-    }
-
     private boolean isAnswer1Correct() {
         EditText input = findViewById(R.id.answer1);
         String answer1 = input.getText().toString();
