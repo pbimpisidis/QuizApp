@@ -20,4 +20,6 @@
     <string name="question5_option2">Harry Potter</string>
     <string name="submit_answers">Submit Answers</string>
     <string name="question1_hint">1</string>
+    <string name="successMessage">Congratulations! You know a lot about films!</string>
+    <string name="failMessage">Go back to the cinema and try again!</string>
 </resources>
